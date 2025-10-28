@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Rangeland Soil Infiltration and Ecological Measurements, Kyrgyz Range south of Bishkek",
+  "description": "Field dataset of transect-based infiltration, soil, and vegetation measurements collected in rangelands south of Bishkek, Kyrgyzstan. Includes Mini Disk Infiltrometer runs with derived hydraulic properties, soil texture and antecedent moisture from NIR, Carsel–Parrish parameterization, and ecological indicators of grazing impact.",
+  "creator": [
+    {
+      "@type": "Person",
+      "name": "Sam Anderson",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "United States Department of Agriculture"
+      }
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "DeCODER"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "keywords": [
+    "flood risk",
+    "infiltration",
+    "soil compaction",
+    "grazing",
+    "Kyrgyzstan",
+    "rangeland hydrology"
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Kyrgyz Range south of Bishkek",
+    "geo": {
+      "@type": "GeoShape",
+      "box": "42.4 74.4 42.7 74.8"
+    }
+  },
+  "temporalCoverage": "2025-05-01/2025-10-31",
+  "variableMeasured": [
+    { "@type": "PropertyValue", "name": "Transect_ID", "description": "Unique identifier for transect or field site (e.g., AA3.1_ref)" },
+    { "@type": "PropertyValue", "name": "Date", "description": "Date of measurement (YYYY-MM-DD)" },
+    { "@type": "PropertyValue", "name": "Latitude_decimal", "unitText": "decimal degrees", "description": "Transect latitude in decimal degrees (WGS84)" },
+    { "@type": "PropertyValue", "name": "Longitude_decimal", "unitText": "decimal degrees", "description": "Transect longitude in decimal degrees (WGS84)" },
+    { "@type": "PropertyValue", "name": "Elevation_m", "unitText": "meters", "description": "Elevation at transect" },
+    { "@type": "PropertyValue", "name": "Aggregate_Stability_Score", "description": "Soil aggregate stability index (1–6 scale)" },
+    { "@type": "PropertyValue", "name": "Penetrometer_kg_cm2", "unitText": "kg/cm²", "description": "Soil penetration resistance measured with penetrometer" },
+    
+    { "@type": "PropertyValue", "name": "field_name", "description": "Field identifier matching transect or workbook name" },
+    { "@type": "PropertyValue", "name": "soil_texture", "description": "USDA soil textural class from NIR (e.g., Loam, Silt loam, Clay loam)" },
+    { "@type": "PropertyValue", "name": "soil_moisture_vwc", "unitText": "fraction (0–1)", "description": "Antecedent volumetric water content measured by NIR, converted to fraction" },
+
+    { "@type": "PropertyValue", "name": "c1", "unitText": "cm·s^-0.5", "description": "Intercept from Vandervaere linearization of infiltration data" },
+    { "@type": "PropertyValue", "name": "c2", "unitText": "cm·s^-0.5", "description": "Half-slope from Vandervaere linearization" },
+    { "@type": "PropertyValue", "name": "r2", "description": "R-squared of the Vandervaere linearization fit (goodness of fit)" },
+    { "@type": "PropertyValue", "name": "alpha", "description": "Carsel–Parrish soil hydrau
