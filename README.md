@@ -22,7 +22,7 @@ The contents include raw data from field transects, methodological documentation
 ## Citation
 If you use materials from this repository, please cite:
 
-> Anderson, S., & collaborators (2025). *Kyrgyz Field Data Repository.* EarthCube / National Academies Fellowship Dataset. DOI: _[to be assigned]_.
+> Anderson, Samuel and Ebden, Kyle Eren (2025). *Kyrgyz Field Data Repository.* EarthCube / National Academies Fellowship Dataset. DOI: _[to be assigned]_.
 
 ---
 
