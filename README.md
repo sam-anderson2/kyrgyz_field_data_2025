@@ -12,8 +12,8 @@ The contents include raw data from field transects, methodological documentation
 |------|------|--------------|
 | **kyrgyz_range_data.xlsx** | Excel Workbook | Core dataset containing processed field observations from Ala Archa, Alamedin, and additional Kyrgyz sites. Includes infiltration, vegetation, and soil measurements summarized by plot and transect. |
 | **kyrgyz_working_data.xlsx** | Excel Workbook | Working version of the dataset used for intermediate calculations and QA/QC checks. Contains pre-cleaned field logs and calibration notes. |
-| **methods.docx** | Word Document | A full description of the field and analytical methods used across all Kyrgyz sites. Outlines site selection, transect layout, infiltration procedures, soil sampling, and vegetation survey protocols. |
-| **range_management_manual.docx** | Word Document | Draft rangeland management guide authored by **Kyle Eren Ebden** (Istanbul University). Summarizes sustainable grazing practices, soil restoration techniques, and community-based management approaches relevant to the Kyrgyz field sites. |
+| **methods.docx** | Word Document | A full description of the field and analytical methods used across all Kyrgyz sites. Outlines site selection, transect layout, infiltration procedures, soil sampling, and vegetation survey protocols. Written by Kyle Eren Ebden |
+| **range_management_manual.docx** | Word Document | Draft rangeland management guide authored by **Kyle Eren Ebden** (Istanbul University). Summarizes sustainable grazing practices, soil restoration techniques, and community-based management approaches relevant to the Kyrgyz field sites. Written by Kyle Eren Ebden |
 | **JSON-data.txt** | Text File | JSON-formatted schema describing the structure, units, and variable definitions used in `kyrgyz_range_data.xlsx`. Intended for interoperability with data portals and analysis scripts. |
 | **README.md** | Markdown File | This document—provides an overview of all repository contents and their purposes. |
 
