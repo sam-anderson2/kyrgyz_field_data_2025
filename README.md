@@ -22,7 +22,7 @@ This repository contains materials collected and compiled as part of the **DeCOD
 ## Citation
 If you use materials from this repository, please cite:
 
-> Anderson, Samuel and Ebden, Kyle Eren (2025). *Kyrgyz Field Data Repository.* EarthCube / National Academies Fellowship Dataset. DOI: _[to be assigned]_.
+> Anderson, Samuel and Ebden, Kyle Eren (2025). *Kyrgyz Field Data Repository.* DeCODER / National Academies Fellowship Dataset. DOI: _[to be assigned]_.
 
 ---
 
