@@ -1,7 +1,7 @@
 # Kyrgyz Field Data Repository
 
 ## Overview
-This repository contains materials collected and compiled as part of the **EarthCube**–supported and **National Academies–funded** field campaign on overgrazing, infiltration, and slope stability in Kyrgyzstan (2025).  
+This repository contains materials collected and compiled as part of the **DeCODER**–supported and **National Academies–funded** field campaign on overgrazing, infiltration, and slope stability in Kyrgyzstan (2025). This work is supported through the National Science Foundation DeCODER award # 2209863
 The contents include raw data from field transects, methodological documentation, and reference materials on rangeland management and data structure.
 
 ---
